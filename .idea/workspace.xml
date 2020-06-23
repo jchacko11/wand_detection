@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0d74bfce-e894-4624-9600-856d0653a185" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1dglLO2vzAgYqvBC6f45OkW8Suq" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunManager" selected="Python.detect">
+    <configuration name="Unnamed" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="object_movement.py" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="detect" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="object_movement.py" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/detect.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="object_movement" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="object_movement.py" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../7zO0FC164E4" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../7zO0FC164E4/object_movement.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.Unnamed" />
+      <item itemvalue="Python.object_movement" />
+      <item itemvalue="Python.detect" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.detect" />
+        <item itemvalue="Python.object_movement" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0d74bfce-e894-4624-9600-856d0653a185" name="Default Changelist" comment="" />
+      <created>1592854560021</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1592854560021</updated>
+      <workItem from="1592854564715" duration="6882000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="828" y="207" key="#Unnamed" timestamp="1592854631364">
+      <screen x="0" y="0" width="2194" height="1194" />
+    </state>
+    <state x="828" y="207" key="#Unnamed/803.2160.1504.956/0.0.2194.1194@0.0.2194.1194" timestamp="1592854631364" />
+    <state x="552" y="253" width="1089" height="732" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1592854608209">
+      <screen x="0" y="0" width="2194" height="1194" />
+    </state>
+    <state x="552" y="253" width="1089" height="732" key="#com.intellij.execution.impl.EditConfigurationsDialog/803.2160.1504.956/0.0.2194.1194@0.0.2194.1194" timestamp="1592854608209" />
+    <state x="878" y="353" key="FileChooserDialogImpl" timestamp="1592865451235">
+      <screen x="0" y="0" width="2194" height="1194" />
+    </state>
+    <state x="878" y="353" key="FileChooserDialogImpl/803.2160.1504.956/0.0.2194.1194@0.0.2194.1194" timestamp="1592865451235" />
+    <state width="2147" height="312" key="GridCell.Tab.0.bottom" timestamp="1592930353239">
+      <screen x="0" y="0" width="2194" height="1194" />
+    </state>
+    <state width="2147" height="312" key="GridCell.Tab.0.bottom/803.2160.1504.956/0.0.2194.1194@0.0.2194.1194" timestamp="1592930353239" />
+    <state width="2147" height="312" key="GridCell.Tab.0.center" timestamp="1592930353238">
+      <screen x="0" y="0" width="2194" height="1194" />
+    </state>
+    <state width="2147" height="312" key="GridCell.Tab.0.center/803.2160.1504.956/0.0.2194.1194@0.0.2194.1194" timestamp="1592930353238" />
+    <state width="2147" height="312" key="GridCell.Tab.0.left" timestamp="1592930353238">
+      <screen x="0" y="0" width="2194" height="1194" />
+    </state>
+    <state width="2147" height="312" key="GridCell.Tab.0.left/803.2160.1504.956/0.0.2194.1194@0.0.2194.1194" timestamp="1592930353238" />
+    <state width="2147" height="312" key="GridCell.Tab.0.right" timestamp="1592930353238">
+      <screen x="0" y="0" width="2194" height="1194" />
+    </state>
+    <state width="2147" height="312" key="GridCell.Tab.0.right/803.2160.1504.956/0.0.2194.1194@0.0.2194.1194" timestamp="1592930353238" />
+    <state x="614" y="240" key="SettingsEditor" timestamp="1592854709485">
+      <screen x="0" y="0" width="2194" height="1194" />
+    </state>
+    <state x="614" y="240" key="SettingsEditor/803.2160.1504.956/0.0.2194.1194@0.0.2194.1194" timestamp="1592854709485" />
+    <state x="768" y="422" key="com.intellij.ide.util.TipDialog" timestamp="1592854565012">
+      <screen x="0" y="0" width="2194" height="1194" />
+    </state>
+    <state x="768" y="422" key="com.intellij.ide.util.TipDialog/803.2160.1504.956/0.0.2194.1194@0.0.2194.1194" timestamp="1592854565012" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/object_movement_py$object_movement.coverage" NAME="object_movement Coverage Results" MODIFIED="1592856027655" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../7zO0FC164E4" />
+    <SUITE FILE_PATH="coverage/object_movement_py$detect.coverage" NAME="detect Coverage Results" MODIFIED="1592863394377" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>
