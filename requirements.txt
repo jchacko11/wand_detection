@@ -2,6 +2,6 @@ flake8==3.8.3
 imutils==0.5.3
 mccabe==0.6.1
 numpy==1.19.0
-opencv-python==4.2.0.34
+opencv-python==4.8.1.78
 pycodestyle==2.6.0
 pyflakes==2.2.0
